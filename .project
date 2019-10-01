@@ -5,7 +5,23 @@
 	<projects>
 	</projects>
 	<buildSpec>
+<<<<<<< HEAD
 	</buildSpec>
 	<natures>
+=======
+<<<<<<< HEAD
+	</buildSpec>
+	<natures>
+=======
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+>>>>>>> branch 'master' of https://github.com/RionPark/bdi-homework.git
+>>>>>>> branch 'master' of https://github.com/RionPark/bdi-homework.git
 	</natures>
 </projectDescription>
